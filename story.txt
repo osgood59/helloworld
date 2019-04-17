@@ -1,7 +1,7 @@
 #coding=utf-8
-from sys import argv
+#from sys import argv
 
-from os.path import exists
+#from os.path import exists
 
 a = input() #数字
 
